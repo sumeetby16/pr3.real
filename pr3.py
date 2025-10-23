@@ -25,4 +25,3 @@ def check_temperature(temp_celsius):
     print(f"Status: {status}")
     print(f"Temperature in Fahrenheit: {temp_fahrenheit:.1f}°F")
 
-check_temperature(35)
